@@ -60,5 +60,8 @@
 0.5,BoneVRepeat,128,366,20,0,120,8,76
 0,BoneVRepeat,513,257,107,2,120,8,76
 3,SansHead,Default,,,,,,,
+0,BoneStab,200,80,10,440,,,,,
+0,BoneStab,320,80,10,440,,,,,
+0,BoneStab,440,80,10,440,,,,,
 0,SansText,Fuck.,,,,,,,
 0,EndAttack,,,,,,,,
