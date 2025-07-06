@@ -3,6 +3,8 @@
 0,HeartMode,0,,,,,,,
 0,TLPause,,,,,,,,
 0,SansSweat,0,,,,,,,
+0,SansText,He he he,,,,,,,
+0,SansText,Dance time!!,,,,,,,
 0,SET,I,0,,,,,,
 0.3,RND,Direction,4,,,,,,
 0,ADD,Jump,$Direction,1,,,,,
