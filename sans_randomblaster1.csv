@@ -2,6 +2,7 @@
 0,HeartTeleport,320,304,,,,,,
 0,HeartMode,0,,,,,,,
 0,TLPause,,,,,,,,
+0,SansText,Short video,,,,,,,
 0.5,SET,Loop,15,,,,,,
 0,SUB,Loop,$Loop,1,,,,,
 0,RND,Ang,360,,,,,,
