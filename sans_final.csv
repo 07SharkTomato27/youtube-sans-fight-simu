@@ -27,6 +27,7 @@
 0,JMPL,7,$I,4,,,,,
 0,BoneHRepeat,130,-10,200,1,300,3,183,
 0,BoneHRepeat,330,650,200,3,300,3,183,
+0,BoneV,105,257,45,0,210,,
 0.5,HeartMode,0,,,,,,,
 2,SansBody,HandLeft,,,,,,,
 0.2,SansSlam,2,,,,,,,
@@ -153,6 +154,7 @@
 0,ADD,Ang,$Ang,180,,,,,
 0,GasterBlaster,0,$X,$Y,$EndX,$EndY,$Ang,0.5,0
 0.1,GasterBlaster,0,$X,$Y,$EndX,$EndY,$Ang,0.5,0
+0,BoneV,105,257,45,0,210,,
 0,ADD,gt,$gt,$gin,,,,,
 0,JMPNL,156,$gin,1.7,,,,,
 0,ADD,gin,$gin,0.015,,,,,
