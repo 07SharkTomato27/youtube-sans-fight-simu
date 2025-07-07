@@ -5,7 +5,6 @@
 0,SansText,toby fox is GOD,,,,,,,
 0,SansTorso,Default,,;
 0,SansAnimation,Idle,,;
-0,BlackScreen,1,;
 0,HeartTeleport,315,304,,,,,,;
 0,Sound,Ding,,;
 0,SansHead,BlueEye,,;
@@ -32,4 +31,5 @@
 ;
 1.2,GasterBlaster,0.7,640,286,560,276,180,0.7,0.1;
 0.2,GasterBlaster,0.7,640,286,560,276,180,0.7,0.1;
+0,Sound,Ding,,;
 5,EndAttack,,,;
