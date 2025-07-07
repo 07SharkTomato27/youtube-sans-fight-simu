@@ -1,3 +1,4 @@
+# 赤ソウル（標準）
 0,CombatZoneResize,241,226,406,391,TLResume,,,,,
 0,HeartTeleport,320,304,,,,,,
 0,HeartMode,0,,,,,,,
@@ -71,4 +72,37 @@
 1.14,GasterBlaster,1,540,380,449,420,180,0.2,0.15
 1.16,GasterBlaster,1,100,380,240,420,315,0.2,0.15
 1.18,GasterBlaster,1,540,100,449,180,135,0.2,0.15
-1.20,EndAttack,,,,,,,,
+
+# 青ソウル（重力モード）
+2.00,CombatZoneResize,241,226,406,391,TLResume,,,,,
+2.00,HeartTeleport,320,280,,,,,,
+2.00,HeartMode,1,,,,,,,
+2.00,TLPause,,,,,,,
+2.00,SansText,You are an idiot...,,,,,,,
+2.02,Sound,GasterBlaster,1.2,,,,,,
+2.04,BoneStab,220,400,4.5,440,,,,,
+2.05,BoneStab,280,380,4.5,440,,,,,
+2.06,BoneStab,340,400,4.5,440,,,,,
+2.07,BoneStab,400,380,4.5,440,,,,,
+2.08,BoneStab,460,400,4.5,440,,,,,
+2.10,GasterBlaster,1,320,0,320,400,260,0.25,0.2
+2.12,GasterBlaster,1,300,50,300,380,280,0.25,0.2
+2.14,GasterBlaster,1,340,20,340,420,240,0.25,0.2
+2.16,BoneVRepeat,128,366,40,0,140,12,40
+2.18,BoneVRepeat,513,257,140,2,140,12,40
+2.20,BoneStab,200,360,5.0,440,,,,,
+2.21,BoneStab,260,340,5.0,440,,,,,
+2.22,BoneStab,320,360,5.0,440,,,,,
+2.23,BoneStab,380,340,5.0,440,,,,,
+2.24,BoneStab,440,360,5.0,440,,,,,
+2.25,SansText,MARIOO?,,,,,,,
+2.27,Sound,Ding,,,,,,,
+2.29,GasterBlaster,1,280,120,280,300,45,0.3,0.25
+2.31,GasterBlaster,1,360,120,360,300,135,0.3,0.25
+2.33,BoneStab,300,320,5.5,440,,,,,
+2.34,BoneStab,340,300,5.5,440,,,,,
+2.35,BoneStab,380,320,5.5,440,,,,,
+2.37,BoneVRepeat,128,366,20,0,160,14,45
+2.39,BoneVRepeat,513,257,120,2,160,14,45
+2.41,Sound,GasterBlaster,1.5,,,,,,
+2.43,EndAttack,,,,,,,,
