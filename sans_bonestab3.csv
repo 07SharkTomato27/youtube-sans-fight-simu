@@ -58,10 +58,15 @@
 1.26,BoneStab,300,340,6.0,440,,,,,
 1.28,BoneStab,300,320,6.0,440,,,,,
 1.4,CombatZoneResize,241,226,406,391,TLResume,,,,,
-1.4,HeartTeleport,320,280,,,,,,
-1.4,HeartMode,1,,,,,,,
-1.4,TLPause,,,,,,,
-1.4,SansText,You are an idiot...,,,,,,,
+0,HeartTeleport,320,280,,,,,,
+0,HeartMode,1,,,,,,,
+0,TLPause,,,,,,,
+0,SansText,You are an idiot...,,,,,,,
+1.42,BoneStab,180,300,4.0,440,,,,,
+1.43,BoneStab,460,300,4.0,440,,,,,
+1.44,BoneVRepeat,128,366,40,0,160,8,48
+1.45,BoneVRepeat,513,257,140,2,160,8,48
+1.46,GasterBlaster,1,320,0,320,360,270,0.2,0.2
 1.42,Sound,GasterBlaster,1.2,,,,,,
 1.44,BoneStab,220,400,3.8,440,,,,,
 1.45,BoneStab,280,380,3.9,440,,,,,
