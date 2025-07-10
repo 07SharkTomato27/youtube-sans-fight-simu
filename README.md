@@ -1,5 +1,5 @@
 Undertale AU
 
-#Credits
+Credits
 Meekuzo
 Jcw87
