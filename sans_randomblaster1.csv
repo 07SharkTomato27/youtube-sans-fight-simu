@@ -3,7 +3,7 @@
 0,HeartMode,0,,,,,,,
 0,TLPause,,,,,,,,
 0,SansText,Short video,,,,,,,
-0.5,SET,Loop,105,,,,,,
+0.01,SET,Loop,105,,,,,,
 0,SUB,Loop,$Loop,1,,,,,
 0,RND,Ang,360,,,,,,
 0,COS,X,$Ang,,,,,,
@@ -29,3 +29,4 @@
 0,GasterBlaster,0,$X,$Y,$EndX,$EndY,$Ang,0.46666,0.03333
 0.001,JMPNZ,6,$Loop,,,,,,
 0,EndAttack,,,,,,,,
+
